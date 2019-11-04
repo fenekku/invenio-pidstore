@@ -12,6 +12,7 @@ Contributors
 - Alizee Pace
 - Diego Rodriguez
 - Esteban J. G. Gabancho
+- Guillaume Viger
 - Harri Hirvonsalo
 - Jiri Kuncar
 - Krzysztof Nowak
